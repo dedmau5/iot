@@ -1,0 +1,22 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "testing the intranet",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^13.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedmau5/iot.git"
+  },
+  "author": "dedmau5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedmau5/iot/issues"
+  },
+  "homepage": "https://github.com/dedmau5/iot#readme"
+}
